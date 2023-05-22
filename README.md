@@ -4,7 +4,9 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<!---
-Daviddbot/Daviddbot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h3 align="center">And here is my stats</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Daviddbot&show_icons=true&include_all_commits=true&theme=monokai" alt="hossein heydari's GitHub stats" /><br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Daviddbot&theme=monokai"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daviddbot&layout=compact&theme=monokai&langs_count=12"/><br />
+</p>
